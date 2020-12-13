@@ -1,0 +1,7 @@
+{
+	"IndexURL": "/",
+	"IndexFile": "../frontend/index.html",
+	"MapsURL": "/drivetime",
+	"MapsFile": "../frontend/google-maps.html"
+}
+	
